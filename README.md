@@ -1,1 +1,2 @@
-# lab6_2561_2
+# NAME:
+# STUDENT ID:
